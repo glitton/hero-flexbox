@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+}
+
+.hero {
+  background: url("./cenote.jpg");
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 60px;
+  color: beige;
+}
+.banner {
+  min-height: 100vh;
+  background: rgb(17, 99, 17);
+}
